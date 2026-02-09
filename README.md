@@ -42,4 +42,4 @@ A full-stack web and mobile system developed as my final-year project to automat
 
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/kiran-cherote
-- GitHub: https://github.com/KiranCherote9745
+- GitHub: https://github.com/kirancherotedev
